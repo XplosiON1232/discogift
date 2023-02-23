@@ -17,7 +17,7 @@ DiscoGift is a lightweight program used for communicating with the server respon
 <hr>
 
 ### Download
-Download the latest recommended version [here]().
+Download the latest recommended version [here](https://github.com/XplosiON1232/discogift/releases/tag/v0.1.0).
 
 <hr>
 
